@@ -1,0 +1,14 @@
+{
+  "name": "ejemplo-video",
+  "version": "1.0.0",
+  "description": "Ejemplo de streaming de video",
+  "main": "server.js",
+  "author": "Eneko de la Torre",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.15.3"
+  },
+  "scripts": {
+    "start": "node server.js"
+  }
+}
